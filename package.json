@@ -1,5 +1,6 @@
 {
   "name": "nobaitbot",
+  "version": "0.0.0",
   "module": "src/index.ts",
   "type": "module",
   "private": true,
